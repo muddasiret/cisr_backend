@@ -53,6 +53,15 @@
       "type": "component",
       "repeatable": true,
       "component": "title-image.title-image"
+    },
+    "footer_sub": {
+      "type": "string"
+    },
+    "footer_links": {
+      "displayName": "footer_links",
+      "type": "component",
+      "repeatable": true,
+      "component": "footer-links.footer-links"
     }
   }
 }

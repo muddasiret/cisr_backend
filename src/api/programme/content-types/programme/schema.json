@@ -57,6 +57,11 @@
     },
     "subtitle": {
       "type": "string"
+    },
+    "faculty": {
+      "type": "component",
+      "repeatable": true,
+      "component": "team.team"
     }
   }
 }
