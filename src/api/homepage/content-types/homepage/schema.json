@@ -24,6 +24,12 @@
       "repeatable": false,
       "component": "sections.hero",
       "required": true
+    },
+    "bottom_menu": {
+      "displayName": "bottom_menu",
+      "type": "component",
+      "repeatable": true,
+      "component": "bottom-menu.bottom-menu"
     }
   }
 }

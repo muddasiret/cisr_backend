@@ -35,14 +35,24 @@
       ]
     },
     "title_image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ],
-      "type": "media",
-      "multiple": false
+      ]
+    },
+    "footer_address_email_phone": {
+      "type": "richtext"
+    },
+    "title_image_individual": {
+      "displayName": "title_image",
+      "type": "component",
+      "repeatable": true,
+      "component": "title-image.title-image"
     }
   }
 }
