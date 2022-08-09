@@ -62,6 +62,13 @@
       "type": "component",
       "repeatable": true,
       "component": "team.team"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "academic",
+        "semi_academic"
+      ]
     }
   }
 }
