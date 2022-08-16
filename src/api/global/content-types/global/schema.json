@@ -62,6 +62,12 @@
       "type": "component",
       "repeatable": true,
       "component": "footer-links.footer-links"
+    },
+    "page_subtitles": {
+      "displayName": "page_subtitles",
+      "type": "component",
+      "repeatable": true,
+      "component": "page-subtitles.page-subtitles"
     }
   }
 }
