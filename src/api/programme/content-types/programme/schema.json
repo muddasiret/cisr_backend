@@ -69,6 +69,10 @@
         "academic",
         "semi_academic"
       ]
+    },
+    "category": {
+      "type": "string",
+      "default": "diploma"
     }
   }
 }
