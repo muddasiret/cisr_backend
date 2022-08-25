@@ -47,6 +47,15 @@
     "slug": {
       "type": "uid",
       "targetField": "title"
+    },
+    "introduction_title": {
+      "type": "string"
+    },
+    "event_title": {
+      "type": "string"
+    },
+    "publications_title": {
+      "type": "string"
     }
   }
 }

@@ -68,6 +68,12 @@
       "type": "component",
       "repeatable": true,
       "component": "page-subtitles.page-subtitles"
+    },
+    "research_paper_title": {
+      "type": "string"
+    },
+    "research_project_title": {
+      "type": "string"
     }
   }
 }
